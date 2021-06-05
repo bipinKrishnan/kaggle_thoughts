@@ -17,3 +17,4 @@
 * [Text Readability Assessment for Second Language Learners](https://arxiv.org/pdf/1906.07580.pdf)
 * [Trends, Limitations and Open Challenges inAutomatic Readability Assessment Research](https://arxiv.org/pdf/2105.00973.pdf)
 * [EXPATS: A Toolkit for Explainable Automated Text Scoring](https://arxiv.org/pdf/2104.03364.pdf)
+* [How to Evaluate Text Readability with NLP](https://medium.com/glose-team/how-to-evaluate-text-readability-with-nlp-9c04bd3f46a2)
