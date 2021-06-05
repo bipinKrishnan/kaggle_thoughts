@@ -2,7 +2,7 @@
 
 ## Ideas/things to note
 
-* Do a simple EDA and build a simple model using only excert as input
+* Do a simple EDA and then build a simple model using only excert as input to get familiar with the dataset
 * Explore traditionally and commercially used methods for this task(Look into Flesch-Kincaid Grade Level and Lexile)
 * Test set has wider range of diversity in text(i.e, has text from wide variety of domains) than the training set
 * Find if we can make use of url, standard error and license column in training set(url, standard error and license column is blank in test set)
