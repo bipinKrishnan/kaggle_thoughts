@@ -9,4 +9,5 @@
 * Try plotting some count plots of target column
 
 ## Useful Resources
-* [[Google search for relevant resources](shorturl.at/arxPW)]  [[Arxiv search results](shorturl.at/nvDW7)]
+* [Google search for relevant resources](shorturl.at/arxPW)
+* [Arxiv search results](shorturl.at/nvDW7)
