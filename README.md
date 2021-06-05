@@ -7,4 +7,4 @@ This repo contains all the thoughts and resources(both from me and the community
 
 2. [CommonLit Readability Prize](https://github.com/bipinKrishnan/kaggle_thoughts/tree/main/vinbig_chest_x_ray.md)
 
-  [[Competition page](https://www.kaggle.com/c/commonlitreadabilityprize)]
+   [[Competition page](https://www.kaggle.com/c/commonlitreadabilityprize)]
