@@ -14,3 +14,4 @@
 * [Do NLP and machine learning improve traditional readability formulas?](https://www.aclweb.org/anthology/W12-2207.pdf)
 * [Text Readability Assessment for Second Language Learners](https://arxiv.org/pdf/1906.07580.pdf)
 * [Trends, Limitations and Open Challenges inAutomatic Readability Assessment Research](https://arxiv.org/pdf/2105.00973.pdf)
+* [EXPATS: A Toolkit for Explainable Automated Text Scoring](https://arxiv.org/pdf/2104.03364.pdf)
