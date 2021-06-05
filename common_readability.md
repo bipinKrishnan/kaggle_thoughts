@@ -8,7 +8,6 @@
 * Go through some of the excert column manually and see if we can find any useful clues
 * Try plotting some count plots of target column
 * From the excert column, generate additional columns like word count, syllables per word, parts of speech count, number of polysyllables, Flesch–Kincaid score etc and then check model performance by removing features progressively(including excert column) to find the best set of features(may be by using sklearn feature selectors)
-* Try out huggingface autonlp
 
 ## Useful Resources
 * [Flesch–Kincaid formula](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
