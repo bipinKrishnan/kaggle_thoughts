@@ -1,0 +1,3 @@
+# CommonLit Readability Prize
+
+## Ideas
