@@ -11,3 +11,5 @@
 ## Useful Resources
 * [Google search for relevant resources](https://bit.ly/3g9xSYp)
 * [Arxiv search results](https://arxiv.org/search/?query=text+readablity&searchtype=all&source=header)
+* [Do NLP and machine learning improve traditional readability formulas?](https://www.aclweb.org/anthology/W12-2207.pdf)
+* [Text Readability Assessment for Second Language Learners](https://arxiv.org/pdf/1906.07580.pdf)
