@@ -10,12 +10,12 @@
 * Go through some of the excert column manually and see if we can find any useful clues
 * Try plotting some count plots of target column
 * From the excert column, generate additional columns like word count, syllables per word, parts of speech count, number of polysyllables, Flesch–Kincaid score etc and then check model performance by removing features progressively(including excert column) to find the best set of features(may be by using sklearn feature selectors)
+* As a beginner, try following this [notebook](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle) and then move to advanced models
 
 ## Useful Resources
 * [Flesch–Kincaid formula](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
 * [Google search for relevant resources](https://bit.ly/3g9xSYp)
 * [Arxiv search results](https://arxiv.org/search/?query=text+readablity&searchtype=all&source=header)
-* [Text Readability Assessment for Second Language Learners](https://arxiv.org/pdf/1906.07580.pdf)
 * [Trends, Limitations and Open Challenges inAutomatic Readability Assessment Research](https://arxiv.org/pdf/2105.00973.pdf)
 * [EXPATS: A Toolkit for Explainable Automated Text Scoring](https://arxiv.org/pdf/2104.03364.pdf)
 * [How to Evaluate Text Readability with NLP](https://medium.com/glose-team/how-to-evaluate-text-readability-with-nlp-9c04bd3f46a2)
