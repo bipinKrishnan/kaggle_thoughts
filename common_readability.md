@@ -13,7 +13,7 @@
 * Use this [notebook](https://www.kaggle.com/abhishek/step-1-create-folds) for fold creation
 
 ## Useful Resources
-* [Google search result for relevant resources](https://bit.ly/3g9xSYp)
+* [Google search for relevant resources](https://bit.ly/3g9xSYp)
 * [Arxiv search results](https://arxiv.org/search/?query=text+readablity&searchtype=all&source=header)
 * [Trends, Limitations and Open Challenges inAutomatic Readability Assessment Research](https://arxiv.org/pdf/2105.00973.pdf)
 * [EXPATS: A Toolkit for Explainable Automated Text Scoring](https://arxiv.org/pdf/2104.03364.pdf)
