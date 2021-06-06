@@ -8,7 +8,6 @@
 * Public and private test set has wider range of diversity in text(i.e, has text from wide variety of domains) than the training set
 * Find if we can make use of url, standard error and license column in training set(url, standard error and license column is blank in test set)
 * Go through some of the excert column manually and see if we can find any useful clues
-* Try plotting some count plots of target column
 * From the excert column, generate additional columns like word count, syllables per word, parts of speech count, number of polysyllables, Flesch–Kincaid score etc and then check model performance by removing features progressively(including excert column) to find the best set of features(may be by using sklearn feature selectors)
 * As a beginner, try following this [notebook](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle) and then move to advanced models
 
