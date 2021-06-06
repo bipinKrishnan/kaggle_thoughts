@@ -8,11 +8,10 @@
 * Public and private test set has wider range of diversity in text(i.e, has text from wide variety of domains) than the training set
 * Find if we can make use of url, standard error and license column in training set(url, standard error and license column is blank in test set)
 * Go through some of the excert column manually and see if we can find any useful clues
-* From the excert column, generate additional columns like word count, syllables per word, parts of speech count, number of polysyllables, Flesch–Kincaid score etc and then check model performance by removing features progressively(including excert column) to find the best set of features(may be by using sklearn feature selectors)
+* From the excert column, generate additional columns like word count, syllables per word, parts of speech count, number of polysyllables, Flesch–Kincaid score(using the formula [here](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)) etc and then check model performance by removing features progressively(including excert column) to find the best set of features(may be by using sklearn feature selectors)
 * As a beginner, try following this [notebook](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle) and then move to advanced models
 
 ## Useful Resources
-* [Flesch–Kincaid formula](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
 * [Google search for relevant resources](https://bit.ly/3g9xSYp)
 * [Arxiv search results](https://arxiv.org/search/?query=text+readablity&searchtype=all&source=header)
 * [Trends, Limitations and Open Challenges inAutomatic Readability Assessment Research](https://arxiv.org/pdf/2105.00973.pdf)
