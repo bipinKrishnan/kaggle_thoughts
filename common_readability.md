@@ -23,3 +23,4 @@
 * [A ton of info on different training techniques for transformers](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/241029)
 * [Papers kaggle discussion thread](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/236307)
 * [Single best model discussion](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/236645)
+* [Stability issues of transformers while fine-tuning](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/245957)
