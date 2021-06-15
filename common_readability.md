@@ -22,3 +22,4 @@
 * [Linguistic Features for Readability Assessment](https://www.aclweb.org/anthology/2020.bea-1.1.pdf)
 * [A ton of info on different training techniques for transformers](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/241029)
 * [Papers kaggle discussion thread](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/236307)
+* [Single best model discussion](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/236645)
